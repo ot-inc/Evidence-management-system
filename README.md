@@ -73,7 +73,3 @@ Used as the relational database for storing evidence records during developement
 **Joseph Mankele Molope
 
 Law Graduate | Diploma in Policing Student | Software Developer
-
-## Database Design
-
-An example evidence table could be structured as follows:
